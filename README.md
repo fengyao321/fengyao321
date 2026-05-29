@@ -3,7 +3,7 @@
 # 👋 你好，我是 fengyao321
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+fengyao321;A+Software+Engineer;A+Lifelong+Learner;Welcome+to+my+digital+space!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+fengyao321;A+Software+Engineer;A+Lifelong+Learner;Welcome+to+my+digital+space!" alt="Typing SVG" />
 
 <p align="center">
   <strong>💻 专注于后端开发 / 数据库技术 / 高性能服务设计</strong>
@@ -35,8 +35,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ### ✍️ 最近更新的博客文章 / Recent Blog Posts
@@ -44,7 +42,7 @@
 <!-- BLOG-POST-LIST:START -->- [在 Linux 环境下配置 GitHub MCP 的踩坑与最佳实践](https://fengyao321.github.io/posts/my-first-tech-post/) (YYYY-30-DD)- [你好，世界！我的 Hugo 博客正式开通](https://fengyao321.github.io/posts/hello-world/) (YYYY-00-DD)<!-- BLOG-POST-LIST:END -->
 
 <p align="right">
-  <i>🔄 博客内容每日通过 GitHub Actions 自动同步更新</i>
+  <i>🔄 博客内容每日自动同步更新</i>
 </p>
 
 ---
@@ -62,13 +60,6 @@
       </td>
     </tr>
   </table>
-  
   <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fengyao321&theme=tokyonight" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=fengyao321&label=Profile%20Views&color=6366F1&style=flat-square" alt="Profile Views" />
 </div>
