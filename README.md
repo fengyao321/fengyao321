@@ -41,8 +41,7 @@
 
 ### ✍️ 最近更新的博客文章 / Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [在 Linux 环境下配置 GitHub MCP 的踩坑与最佳实践](https://fengyao321.github.io/posts/my-first-tech-post/) (YYYY-30-DD)- [你好，世界！我的 Hugo 博客正式开通](https://fengyao321.github.io/posts/hello-world/) (YYYY-00-DD)<!-- BLOG-POST-LIST:END -->
 
 <p align="right">
   <i>🔄 博客内容每日通过 GitHub Actions 自动同步更新</i>
