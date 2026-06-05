@@ -28,7 +28,7 @@
 
 ### ✍️ Recent Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- [在 Linux 环境下配置 GitHub MCP 的踩坑与最佳实践](https://fengyao321.github.io/posts/my-first-tech-post/) (YYYY-30-DD)- [你好，世界！我的 Hugo 博客正式开通](https://fengyao321.github.io/posts/hello-world/) (YYYY-00-DD)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [现代数据库自动化索引调优：核心任务、前沿文献与人工智能新范式](https://fengyao321.github.io/posts/index-tune/) (YYYY-14-DD)- [你好，世界！我的 Hugo 博客正式开通](https://fengyao321.github.io/posts/hello-world/) (YYYY-00-DD)<!-- BLOG-POST-LIST:END -->
 
 ---
 
